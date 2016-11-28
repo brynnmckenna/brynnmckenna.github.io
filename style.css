@@ -26,5 +26,5 @@ nav li { display: inline-block;
 
 #portrait { height: 300px;
             float: left; 
-            border: 1px solid #FFFAFA;
+            border: 20px solid #FFFAFA;
             margin: 10px;}
