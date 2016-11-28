@@ -1,11 +1,12 @@
 body { background: #8FBC8F;
        font-family:  'Century Gothic', sans-serif }
 
-h1 { font-family: 'Syncopate', sans-serif;
-     font-weight: bold;
-     font-size: 250%;
-     margin: 5;
-     text-align: left }
+h1 {   font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+	font-size: 24px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 26.4px;
      
 h2 { font-family: 'Syncopate', sans-serif;
      font-weight: normal;
