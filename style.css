@@ -1,11 +1,11 @@
 body { background: #8FBC8F;
-       font-family:  'Gill Sans Extrabold', sans-serif }
+       font-family:  'Century Gothic', sans-serif }
 
 h1 { font-family: 'Syncopate', sans-serif;
      font-weight: bold;
      font-size: 250%;
      margin: 5;
-     text-align: right }
+     text-align: left }
      
 h2 { font-family: 'Syncopate', sans-serif;
      font-weight: normal;
@@ -14,7 +14,7 @@ h2 { font-family: 'Syncopate', sans-serif;
      text-align: right }
 
 nav { font-family: 'Syncopate', sans-serif;
-      text-align: right;
+      text-align: left;
       font-weight: bold; }
 nav ul { margin: 0 }
 nav li { display: inline-block;
@@ -23,7 +23,7 @@ nav li { display: inline-block;
          font-size: 80%;
          background: #fc9 }
 
-#portrait { height: 200px;
-            float: right; 
-            border: 1px solid black;
-            margin: 5px;}
+#portrait { height: 300px;
+            float: left; 
+            border: 1px solid #DB7093;
+            margin: 10px;}
